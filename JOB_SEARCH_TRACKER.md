@@ -19,6 +19,7 @@ Use this file as the source of truth for jobs already shown to Jessica. Before e
 | 2026-09-06 | Seven Starling | Provider Support Coordinator | Remote — full-time | $50,000/yr | Shown | Provider operations / support role. |
 | 2026-09-06 | The Ladder Method | Learning Support Coordinator | Remote — full-time | $21.91–$25.57/hr | Shown | Strong Special Education / neurodivergent learner support fit. |
 | 2026-09-06 | Luminare Health | Intake Coordinator | Remote — full-time | $18.07–$33.92/hr | Shown | Healthcare intake / coordination role. |
+| 2026-09-18 | Texas Health and Human Services Commission | LTC Services Screener II | McAllen, TX — on-site/full-time | $2,694.33–$3,946.25/month | Shown | Bilingual preferred; screens and refers older adults and people with disabilities for long-term-care services; high-volume calls and case documentation. Valid driver's license and up to 25% travel required. |
 
 ## Deduplication Rules
 
