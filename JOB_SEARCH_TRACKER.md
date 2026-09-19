@@ -20,6 +20,9 @@ Use this file as the source of truth for jobs already shown to Jessica. Before e
 | 2026-09-06 | The Ladder Method | Learning Support Coordinator | Remote — full-time | $21.91–$25.57/hr | Shown | Strong Special Education / neurodivergent learner support fit. |
 | 2026-09-06 | Luminare Health | Intake Coordinator | Remote — full-time | $18.07–$33.92/hr | Shown | Healthcare intake / coordination role. |
 | 2026-09-18 | Texas Health and Human Services Commission | LTC Services Screener II | McAllen, TX — on-site/full-time | $2,694.33–$3,946.25/month | Shown | Bilingual preferred; screens and refers older adults and people with disabilities for long-term-care services; high-volume calls and case documentation. Valid driver's license and up to 25% travel required. |
+| 2026-09-19 | Spectrum | Customer Service Representative — Billing Support (Bilingual) | McAllen, TX — on-site/full-time | Not verified | Shown | Direct bilingual customer-service match; official Spectrum careers site confirms active McAllen full-time opening. |
+| 2026-09-19 | Optum / UnitedHealth Group | Senior Business Operations Coordinator | U.S. National Remote — full-time | $18–$32/hr | Shown | Behavioral-health operations role scheduling clinical peer reviews and routing psychological-testing requests; requires 2+ years office/phone/computer experience. |
+| 2026-09-19 | Optum / UnitedHealth Group | Junior Account Manager Support Specialist | U.S. National Remote — full-time | $18–$32/hr | Shown | Entry-level operations support for Veterans' medical disability exam orders; requires HS/GED and Microsoft Office proficiency; six weeks paid virtual training. |
 
 ## Deduplication Rules
 
