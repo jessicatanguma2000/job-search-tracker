@@ -23,6 +23,7 @@ Use this file as the source of truth for jobs already shown to Jessica. Before e
 | 2026-09-19 | Spectrum | Customer Service Representative — Billing Support (Bilingual) | McAllen, TX — on-site/full-time | Not verified | Shown | Direct bilingual customer-service match; official Spectrum careers site confirms active McAllen full-time opening. |
 | 2026-09-19 | Optum / UnitedHealth Group | Senior Business Operations Coordinator | U.S. National Remote — full-time | $18–$32/hr | Shown | Behavioral-health operations role scheduling clinical peer reviews and routing psychological-testing requests; requires 2+ years office/phone/computer experience. |
 | 2026-09-19 | Optum / UnitedHealth Group | Junior Account Manager Support Specialist | U.S. National Remote — full-time | $18–$32/hr | Shown | Entry-level operations support for Veterans' medical disability exam orders; requires HS/GED and Microsoft Office proficiency; six weeks paid virtual training. |
+| 2026-09-20 | Texas Department of Family and Protective Services | CPS Conservatorship Worker | Edinburg, TX — mobile/on-site/full-time | $3,816.65–$5,372.41/month | Shown | Bachelor's degree qualifies; Education degree preferred and Spanish required. Child/family casework fit, but demanding role with up to 85% travel, personal vehicle, irregular/on-call hours, drug screening and fingerprint/background checks at offer stage. |
 
 ## Deduplication Rules
 
