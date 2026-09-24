@@ -28,6 +28,7 @@ Use this file as the source of truth for jobs already shown to Jessica. Before e
 | 2026-09-22 | Optum / UnitedHealth Group | Customer Service Representative | U.S. National Remote — full-time | $16–$29/hr | Shown | Entry-level provider support; HS/GED required, office/customer-service and pharmacy experience preferred. Walgreens pharmacy/front-end background is a strong match; rotating Saturdays possible. |
 | 2026-09-22 | UMR / UnitedHealth Group | Claims Clerk | U.S. National Remote — full-time | $16–$25/hr | Shown | Claims/data-entry role requiring 2+ years with Excel and Outlook; medical claims experience preferred, not required. Broad 6:30am–9pm CT scheduling window. |
 | 2026-09-23 | Optum / UnitedHealth Group | Associate Pharmacy Clerk | U.S. National Remote — full-time | $16–$25/hr | Shown | New 9/22 posting; customer-service/data-entry role verifying member eligibility, reviewing provider documents, and contacting provider offices. Walgreens pharmacy exposure is directly preferred; broad 6am–7pm CT scheduling window with possible weekends/holidays/overtime. |
+| 2026-09-24 | The University of Texas Rio Grande Valley | Outreach Representative | Edinburg, TX — on-site/full-time | Commensurate with experience | Shown | Bachelor's required plus 1 year public/student-facing experience in admissions, financial aid, scholarships, or related area. Strong education/family communication and customer-service fit; frequent travel plus evening/weekend work required. |
 
 ## Deduplication Rules
 
